@@ -1,0 +1,57 @@
+h1,h2,p {
+    text-align:center; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-style: italic; 
+    font-size: x-large;}
+ul{
+    font-size: larger;
+    font-family: 'Lucida Sans';
+    font-style: italic;
+    font-weight: bold;
+}
+ol{
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+    font-weight: bolder;
+}
+body{
+    background-color: aqua;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+img {
+    width: 150px;
+    height: 150px;
+}
+.redessociales {
+    padding: 10px;;
+    width:4cm;
+    height: 5px;
+    display: flex;
+    align-items: center;
+    margin: 80px;
+}
+hr{
+    height: auto;
+    background-color: black;
+    border-color: black;
+    border-style: solid;
+}
+.tartas{
+    background-color: rgb(119, 119, 231);
+    margin-left: auto;
+    margin-right:auto;
+}
+
+
+button{
+    width: 70px;
+    height: 20px;
+}
+
+ form{
+     background-color: gray;
+ }   
